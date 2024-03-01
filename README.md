@@ -14,6 +14,9 @@ Character Controller adapted from Sebastion Lague's Unity 5 Character Controller
 https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
+[Assets for map](https://www.kenney.nl/assets/tiny-town)
+
 ## Future Development
 
 ## Created by
+Eli Cohen

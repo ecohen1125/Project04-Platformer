@@ -16,7 +16,7 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 
 https://github.com/SebLague/2DPlatformer-Tutorial
 
-[Assets for map]([https://www.kenney.nl/assets/tiny-town](https://www.kenney.nl/assets/pixel-platformer-farm-expansion)https://www.kenney.nl/assets/pixel-platformer-farm-expansion)
+[Assets for map](https://www.kenney.nl/assets/tiny-town](https://www.kenney.nl/assets/pixel-platformer-farm-expansion)https://www.kenney.nl/assets/pixel-platformer-farm-expansion)
 
 [Assets for background]()
 

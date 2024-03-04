@@ -6,7 +6,10 @@ Context and date
 Description
 
 ## Implementation
-Which features you included
+
+Changed the graphics of the level and background
+
+Created a player and implemented new graphics with animations
 
 ## References
 

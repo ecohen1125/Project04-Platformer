@@ -25,6 +25,8 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 
 [Assets for player with animations](https://grafxkid.itch.io/sprite-pack-8)
 
+[UI Assets](https://www.kenney.nl/assets/ui-pack)
+
 ## Future Development
 
 ## Created by

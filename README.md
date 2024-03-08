@@ -10,7 +10,7 @@ This is a 2D platformer that has different enemy types. It has one large level.
 
 Changed the graphics of the level and background
 
-Created one big level with a background and a challenge to get to the end of it
+Created one big level with a background and a little challenge to get to the end of it
 
 Added a health system that ends the game if you run out of life (start with 3)
 

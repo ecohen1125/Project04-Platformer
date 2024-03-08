@@ -26,7 +26,7 @@ Added a pause menu when the escape key is pressed
 
 Created a main menu, and a win screen and lose screen
 
-Added a zone under the map that destroys anything that touches it to clean up the level. If the player touches it, they are reset to the beginning
+Added a zone under the map that resets the player if they fall off the level
 
 ## References
 

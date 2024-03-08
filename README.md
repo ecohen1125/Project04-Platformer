@@ -22,6 +22,10 @@ Added background music
 
 There are coins around the level that add to the player's score. Killing an enemy also adds to the score
 
+Added a pause menu when the escape key is pressed
+
+Created a main menu, and a win and lose screen
+
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials

@@ -10,9 +10,17 @@ This is a 2D platformer that has different enemy types. It has one large level.
 
 Changed the graphics of the level and background
 
+Created one big level with a background and a challenge to get to the end of it
+
+Added a health system that ends the game if you run out of life (start with 3)
+
 Created a player and implemented new graphics with animations
 
 Created 3 enemy types: one that charges at the player when they are close, one that starts jumping towards the player when they are close, and one that walks between two walls
+
+Added background music
+
+There are coins around the level that add to the player's score. Killing an enemy also adds to the score
 
 ## References
 

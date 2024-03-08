@@ -24,7 +24,7 @@ There are coins around the level that add to the player's score. Killing an enem
 
 Added a pause menu when the escape key is pressed
 
-Created a main menu, and a win screen and lose screen
+Created a main menu, and win screen, and lose screen
 
 Added a zone under the map that resets the player if they fall off the level
 

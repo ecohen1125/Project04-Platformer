@@ -16,7 +16,7 @@ Added a health system that ends the game if you run out of life (start with 3)
 
 Created a player and implemented new graphics with animations
 
-Created 3 enemy types: one that charges at the player when they are close, one that starts jumping towards the player when they are close, and one that walks between two walls
+Created 3 enemy types: one that charges at the player when they are close, one that starts jumping towards the player when they are close, and one that walks between two walls with animations for all
 
 Added background music
 
@@ -24,7 +24,7 @@ There are coins around the level that add to the player's score. Killing an enem
 
 Added a pause menu when the escape key is pressed
 
-Created a main menu, and a win and lose screen
+Created a main menu, and a win screen and lose screen
 
 ## References
 

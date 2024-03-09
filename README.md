@@ -10,7 +10,7 @@ This is a 2D platformer that has different enemy types. It has one large level.
 
 Changed the graphics of the level and background
 
-Created one big level with a background and a little challenge to get to the end of it
+Created one big level with a little challenge to get to the end of it
 
 Added a health system that ends the game if you run out of life (start with 3)
 
@@ -24,9 +24,9 @@ There are coins around the level that add to the player's score. Killing an enem
 
 Added a pause menu when the escape key is pressed
 
-Created a main menu, and win screen, and lose screen
+Created a main menu, win screen, and lose screen
 
-Added a zone under the map that resets the player if they fall off the level
+Added a zone under the map that resets the player if they fall off the level and takes away a life
 
 ## References
 
@@ -45,6 +45,8 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 [UI Assets](https://www.kenney.nl/assets/ui-pack)
 
 ## Future Development
+
+None
 
 ## Created by
 Eli Cohen
